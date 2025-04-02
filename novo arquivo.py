@@ -1,1 +1,2 @@
-print("Boa tarde, tudo bem?")
+print("Tchau")
+print("O Daniel ajudou a gente AEEEEEEE")
