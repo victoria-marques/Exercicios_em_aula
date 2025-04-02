@@ -1,1 +1,2 @@
-print("Boa tarde, tudo bem?")
+print("O Justin é legal")
+print("Os professores explicam bem!")
